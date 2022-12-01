@@ -1,0 +1,4 @@
+{
+	"wordsURL": "http://localhost:3000/words/",
+	"rankURL": "http://localhost:3000/rank/"
+}

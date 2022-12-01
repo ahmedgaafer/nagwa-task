@@ -1,0 +1,6 @@
+{
+	"scripts": {
+		"install": "npm i && cd frontend && npm i && cd .. && cd backend && npm i",
+		"dev": "concurrently --kill-others \"cd frontend && npm run dev\" \"cd backend && npm run dev\""
+	}
+}
